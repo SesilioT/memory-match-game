@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 // script.js
 
 const board = document.getElementById('game-board');
